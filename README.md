@@ -8,4 +8,4 @@ A minimal ASCII-style arcade game built with vanilla JavaScript.
 - Survive as long as possible
 
 ## Run
-Open `index.html` in any modern browser.
+Open `index.html` in any modern browser
